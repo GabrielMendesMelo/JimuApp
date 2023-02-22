@@ -1,0 +1,26 @@
+name: alimentos
+description: Sistemas relativos à Alimentos.
+
+publish_to: 'none'
+
+version: 0.0.1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  compartilhado:
+    path: ../compartilhado
+
+  flutter_bloc: ^8.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
