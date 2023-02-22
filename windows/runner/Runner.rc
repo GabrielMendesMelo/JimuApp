@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "jimu_app" "\0"
+            VALUE "FileDescription", "JimuApp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "jimu_app" "\0"
+            VALUE "InternalName", "JimuApp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "jimu_app.exe" "\0"
-            VALUE "ProductName", "jimu_app" "\0"
+            VALUE "OriginalFilename", "JimuApp.exe" "\0"
+            VALUE "ProductName", "JimuApp" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

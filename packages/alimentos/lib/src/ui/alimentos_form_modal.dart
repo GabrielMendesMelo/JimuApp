@@ -79,12 +79,6 @@ class _AlimentosFormModalState extends State<AlimentosFormModal> {
         label: 'Nome',
         validatorMinLength: 2,
       ),
-      NomeTextFormField(
-        validatorText: 'Insira um nome válido.',
-        controller: nomeController,
-        label: 'Nome',
-        validatorMinLength: 2,
-      ),
     ];
   }
 

@@ -1,1 +1,1 @@
-# jimu_app
+# JimuApp

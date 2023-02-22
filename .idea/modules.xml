@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jimu_app.iml" filepath="$PROJECT_DIR$/jimu_app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/jimu_app_android.iml" filepath="$PROJECT_DIR$/android/jimu_app_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JimuApp.iml" filepath="$PROJECT_DIR$/JimuApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/JimuApp_android.iml" filepath="$PROJECT_DIR$/android/JimuApp_android.iml" />
     </modules>
   </component>
 </project>

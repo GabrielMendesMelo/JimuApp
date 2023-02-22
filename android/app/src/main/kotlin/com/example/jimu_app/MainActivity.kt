@@ -1,4 +1,4 @@
-package com.example.jimu_app
+package com.example.JimuApp
 
 import io.flutter.embedding.android.FlutterActivity
 

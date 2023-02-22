@@ -1,6 +1,6 @@
 {
-    "name": "jimu_app",
-    "short_name": "jimu_app",
+    "name": "JimuApp",
+    "short_name": "JimuApp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

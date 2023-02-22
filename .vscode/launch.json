@@ -5,13 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "jimu_app",
+            "name": "JimuApp",
             "request": "launch",
             "type": "dart",
             "program": "lib/main.dart"
         },
         {
-            "name": "jimu_app (release mode)",
+            "name": "JimuApp (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release",
